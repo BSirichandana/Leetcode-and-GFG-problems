@@ -8,17 +8,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/0648-replace-words) |
 # Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/0648-replace-words) |
 # Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/0523-continuous-subarray-sum) |
 # Binary Search
 |  |
 | ------- |
@@ -44,3 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/0648-replace-words) |
+# Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/0523-continuous-subarray-sum) |

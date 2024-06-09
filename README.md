@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/0648-replace-words) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 # Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/0648-replace-words) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 # Math
 |  |
 | ------- |
@@ -51,3 +53,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/1016-subarray-sums-divisible-by-k) |

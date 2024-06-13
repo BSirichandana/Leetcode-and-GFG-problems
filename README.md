@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/0648-replace-words) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/1137-height-checker) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/0268-missing-number) |
 | [1137-height-checker](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/1137-height-checker) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Two Pointers
 |  |
 | ------- |
@@ -63,3 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/1137-height-checker) |
+# Greedy
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/BSirichandana/Leetcode-and-GFG-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
